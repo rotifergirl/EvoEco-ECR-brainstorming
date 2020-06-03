@@ -1,1 +1,10 @@
 # EvoEco-ECR-brainstorming
+
+***This is the webpage for the EvoEco Early Career Researchers brainstroming group***
+
+Our goals are to bring together ECRs in evolution, ecology, genomics, and related fields from across the world for monthly online brainstorming discussions about the big and small issues in our fields. Topics can range from broad and conceptual to specific and technical. We consider ECRs to be students and postdocs
+
+Topic proposals are welcome from anyone, so long as you are prepared to give a brief background and set the direction of the discussions at the start. Topics can be proposed by lodging an issue.
+
+Please read the procedures, policies, and code of conduct pages before participating and before proposing discussion topics.
+
