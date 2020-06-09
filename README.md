@@ -6,5 +6,5 @@ Our goals are to bring together ECRs in evolution, ecology, genomics, and relate
 
 Topic proposals are welcome from anyone, so long as you are prepared to give a brief background and set the direction of the discussions at the start. Topics can be proposed by lodging an issue.
 
-Please read the procedures, policies, and code of conduct pages before participating and before proposing discussion topics.
+Please read the procedures and code of conduct pages before participating and before proposing discussion topics.
 
