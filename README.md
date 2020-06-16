@@ -9,7 +9,7 @@ Topic proposals are welcome from anyone, so long as you are prepared to give a b
 Please read the procedures and code of conduct pages before participating and before proposing discussion topics.
 
 
-How to join:
+***How to join:***
 48hrs before the scheduled session, the zoom meeting ID and password will be added under the topic issue to be discussed.
 
 I am working on a mailing list/google group
