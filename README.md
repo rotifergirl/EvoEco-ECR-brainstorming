@@ -10,6 +10,6 @@ Please read the procedures and code of conduct pages before participating and be
 
 
 ***How to join:***
-48hrs before the scheduled session, the zoom meeting ID and password will be added under the topic issue to be discussed.
+48hrs before the scheduled session, the zoom meeting ID and password will be shared on the slack channel.
 
-I am working on a mailing list/google group
+For any questions please email EvoEcoECRs@gmail.com
